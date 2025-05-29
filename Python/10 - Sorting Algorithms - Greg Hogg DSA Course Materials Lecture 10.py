@@ -1,7 +1,7 @@
 # Sorting Algorithms - Greg Hogg DSA Course Materials Lecture 10
 
 # The Colab Notebook can be viewed here: https://colab.research.google.com/drive/1dk8Nch71bZpt9Mpi_E4NurxrpIh0jZhS
-
+# The corresponding YouTube video is https://youtu.be/gcRUIO-8r3U
 
 # Bubble Sort
 # Time: O(n^2)

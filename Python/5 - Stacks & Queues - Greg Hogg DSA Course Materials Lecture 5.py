@@ -1,7 +1,8 @@
 # Stacks & Queues - Greg Hogg DSA Course Materials Lecture 5
 
 # The Colab Notebook can be viewed here: https://colab.research.google.com/drive/1djJOXslserp8IerjT4kfp7DXX5s-tdgh
-
+# The corresponding page on Algomap.io is https://algomap.io/lessons/stacks-queues
+# The corresponding YouTube video is https://youtu.be/vOx3vY1w4tM
 
 # Stacks - Last in First Out (Lifo)
 

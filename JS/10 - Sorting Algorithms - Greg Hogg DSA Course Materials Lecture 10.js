@@ -1,4 +1,5 @@
 // Sorting Algorithms - Greg Hogg DSA Course Materials Lecture 10
+// The corresponding YouTube video is https://youtu.be/gcRUIO-8r3U
 
 // Bubble Sort
 function bubbleSort(arr) {

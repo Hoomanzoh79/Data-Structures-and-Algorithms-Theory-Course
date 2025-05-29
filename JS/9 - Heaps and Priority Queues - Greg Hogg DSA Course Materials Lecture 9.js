@@ -1,4 +1,6 @@
 // Heaps and Priority Queues - Greg Hogg DSA Course Materials Lecture 9
+// The corresponding page on Algomap.io is https://algomap.io/lessons/heaps
+// The corresponding YouTube video is https://youtu.be/E2v9hBgG6gE
 
 const { MinPriorityQueue, MaxPriorityQueue } = require('@datastructures-js/priority-queue');
 

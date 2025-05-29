@@ -1,4 +1,6 @@
 // Hash Tables - Hash Functions, Sets & Maps - Greg Hogg DSA Course Materials Lecture 4
+// The corresponding page on Algomap.io is https://algomap.io/lessons/hashmaps-sets
+// The corresponding YouTube video is https://youtu.be/iZyxNEBpqFY
 
 import java.util.HashSet;
 import java.util.Set;

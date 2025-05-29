@@ -1,7 +1,8 @@
 # Linked Lists - Singly & Doubly Linked - Greg Hogg DSA Course Materials Lecture 3
 
 # The Colab Notebook can be viewed here: https://colab.research.google.com/drive/1spa5_AB-IXpdZjMeGZ6ARX_LEKRt6bBx
-
+# The corresponding page on Algomap.io is https://algomap.io/lessons/linked-lists
+# The corresponding YouTube video is https://youtu.be/dqLHTK7RuIo
 
 # Singly Linked Lists
 

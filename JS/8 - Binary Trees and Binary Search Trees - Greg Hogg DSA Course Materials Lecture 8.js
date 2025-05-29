@@ -1,4 +1,6 @@
 // Binary Trees and Binary Search Trees - Greg Hogg DSA Course Materials Lecture 8
+// The corresponding page on Algomap.io is https://algomap.io/lessons/binary-trees
+// The corresponding YouTube video is https://youtu.be/EPwWrs8OtfI
 
 // Binary Tree Node Definition
 class TreeNode {

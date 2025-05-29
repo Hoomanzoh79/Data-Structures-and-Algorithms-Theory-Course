@@ -1,4 +1,6 @@
 // Recursion - Greg Hogg DSA Course Materials Lecture 6
+// The corresponding page on Algomap.io is https://algomap.io/lessons/recursion
+// The corresponding YouTube video is https://youtu.be/TGT79h7e7tE
 
 // Fibonacci
 #include <iostream>

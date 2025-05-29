@@ -1,4 +1,6 @@
 // Binary Search - Greg Hogg DSA Course Materials Lecture 7
+// The corresponding page on Algomap.io is https://algomap.io/lessons/binary-search
+// The corresponding YouTube video is https://youtu.be/9nmrkG6QtpQ
 
 #include <iostream>
 #include <vector>

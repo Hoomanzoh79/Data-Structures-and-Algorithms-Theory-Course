@@ -1,6 +1,8 @@
 # Graphs - Edge List, Adjacency Matrix, Adjacency List, DFS, BFS - Greg Hogg DSA Course Materials Lecture 11
 
 # The Colab Notebook can be viewed here: https://colab.research.google.com/drive/1V5Afu8zDQLJpPXQLMyocMm93GB2qdOJV
+# The corresponding page on Algomap.io is https://algomap.io/lessons/graphs
+# The corresponding YouTube video is https://youtu.be/4jyESQDrpls
 
 # Array of Edges (Directed) [Start, End]
 n = 8

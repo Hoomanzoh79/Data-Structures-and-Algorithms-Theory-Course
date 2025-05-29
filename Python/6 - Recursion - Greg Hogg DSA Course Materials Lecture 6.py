@@ -1,7 +1,8 @@
 # Recursion - Greg Hogg DSA Course Materials Lecture 6
 
 # The Colab Notebook can be viewed here: https://colab.research.google.com/drive/1qdUMlMleXTlObv-r-jdJj6tR2Vmes5AF
-
+# The corresponding page on Algomap.io is https://algomap.io/lessons/recursion
+# The corresponding YouTube video is https://youtu.be/TGT79h7e7tE
 
 # Fibonacci
 # F(0) = 0

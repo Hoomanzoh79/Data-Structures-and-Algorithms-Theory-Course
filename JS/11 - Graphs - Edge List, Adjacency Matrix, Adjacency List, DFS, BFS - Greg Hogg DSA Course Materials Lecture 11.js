@@ -1,4 +1,6 @@
 // Graphs - Edge List, Adjacency Matrix, Adjacency List, DFS, BFS - Greg Hogg DSA Course Materials Lecture 11
+// The corresponding page on Algomap.io is https://algomap.io/lessons/graphs
+// The corresponding YouTube video is https://youtu.be/4jyESQDrpls
 
 // Graph Representation & Traversal
 

@@ -1,4 +1,6 @@
 // Stacks & Queues - Greg Hogg DSA Course Materials Lecture 5
+// The corresponding page on Algomap.io is https://algomap.io/lessons/stacks-queues
+// The corresponding YouTube video is https://youtu.be/vOx3vY1w4tM
 
 import java.util.Deque;
 import java.util.LinkedList;

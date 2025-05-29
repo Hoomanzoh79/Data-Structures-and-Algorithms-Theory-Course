@@ -1,6 +1,8 @@
 # Binary Search - Greg Hogg DSA Course Materials Lecture 7
 
 # The Colab Notebook can be viewed here: https://colab.research.google.com/drive/1eN3A8i88C641wlIdwTeahwoQLcthCGtD
+# The corresponding page on Algomap.io is https://algomap.io/lessons/binary-search
+# The corresponding YouTube video is https://youtu.be/9nmrkG6QtpQ
 
 A = [-3, -1, 0, 1, 4, 7]
 

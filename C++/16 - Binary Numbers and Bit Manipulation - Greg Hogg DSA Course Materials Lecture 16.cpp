@@ -1,4 +1,6 @@
 // Binary Numbers and Bit Manipulation - Greg Hogg DSA Course Materials Lecture 16
+// The corresponding page on Algomap.io is https://algomap.io/lessons/bit-manipulation
+// The corresponding YouTube video is https://youtu.be/H_NCHm3wAMI
 
 #include <iostream>
 #include <bitset>

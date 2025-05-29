@@ -1,7 +1,8 @@
 # Binary Numbers and Bit Manipulation - Greg Hogg DSA Course Materials Lecture 16
 
 # The Colab Notebook can be viewed here: https://colab.research.google.com/drive/1ju2DSFvka-z9hn4v9qcNYL6gzpXCNWrE
-
+# The corresponding page on Algomap.io is https://algomap.io/lessons/bit-manipulation
+# The corresponding YouTube video is https://youtu.be/H_NCHm3wAMI
 
 # Decimal to Binary
 print(bin(5)[2:])

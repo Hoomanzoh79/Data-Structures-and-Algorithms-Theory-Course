@@ -1,5 +1,6 @@
 // Linked Lists - Singly & Doubly Linked - Greg Hogg DSA Course Materials Lecture 3
-
+// The corresponding page on Algomap.io is https://algomap.io/lessons/linked-lists
+// The corresponding YouTube video is https://youtu.be/dqLHTK7RuIo
 
 #include <iostream>
 #include <string>
