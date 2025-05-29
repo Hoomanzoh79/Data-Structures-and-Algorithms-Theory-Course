@@ -1,7 +1,8 @@
 # Static Arrays, Dynamic Arrays, and Strings - Greg Hogg DSA Course Materials Lecture 2
 
 # The Colab Notebook can be viewed here: https://colab.research.google.com/drive/1U9tv4lgJ6HV-e_h4MdBlgqlbqw8IogSJ
-
+# The corresponding page on Algomap.io is https://algomap.io/lessons/static-arrays
+# The corresponding YouTube video is https://youtu.be/TQMvBTKn2p0
 
 A = [1, 2, 3]
 
